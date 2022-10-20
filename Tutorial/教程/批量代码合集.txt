@@ -1,0 +1,228 @@
+批量代码搜索方法：设置一个精灵改成你需要的改动。批量器打开，PK语言改成英文，对应你要改的英文名在任意右边选项里找到对应选项选中下面右侧显示的数字就是代码。
+
+批量修改初训家名字：.OT_Name=
+
+批量修改初训家性别：.OT_Gender=0/1 （0男 1女）
+
+批量修改初训家里ID：.DisplaySID= （里ID）
+
+批量修改初训家表ID：.DisplayTID= （表ID）
+
+批量修改宝可梦语言：.language=
+(1 = JPN;2 = English;3 = French;4 = Italian;5 = German;7 = Spanish;8 = Korean;9 = Chinese Simplified;10 = Chinese Traditional)
+
+批量修改个体值：.IV_ATK/DEF/HP/SPA/SPD/SPE=0-31 （V=31）
+
+批量修改努力值：.EV_ATK/DEF/HP/SPA/SPD/SPE= （单项上限252/全部总和上限510）
+
+批量修改普通闪光：.PID=$shiny
+
+批量修改方块闪光：.PID=$shiny0
+
+批量修改特性：.AbilityNumber=（1=特性1;2=特性2;4=隐藏特性）
+
+批量修改携带道具：.HeldItem=
+
+批量极具等级：.DynamaxLevel=10
+
+批量当前等级100级：.CurrentLevel=100
+
+批量亲密度：.OT_Friendship=255
+
+批量PID随机：.PID=$rand
+
+批量随机加密常数：.EncryptionConstant=$rand
+
+批量身高：.HeightScalar=  （取值范围为0-255）八代前固定为0
+
+批量体重：.WeightScalar=  （取值范围为0-255）八代前固定为0
+
+
+批量精灵球：.Ball=
+1大师球 2高级球 3超级球 4精灵球 5狩猎球 6捕网球 7潜水球 8巢穴球 9重复球 10计时球 
+11豪华球 12纪念球 13黑暗球 14治愈球 15先机球 16贵重球 17速度球 18等级球 19诱饵球 20沉重球
+21甜蜜球 22友友球 23月亮球 24竞赛球 25梦境球 26究极球
+
+.Move1_PPUps=3 招式PP值最大（同理可改Move2、Move3、Move4）
+
+.Nature=$suggest 让性格与能力性格一致
+
+.HeightScalar=$48,207 身高在48-207间随机（取值范围为0-255）
+
+.WeightScalar=$48,207 体重在48-207间随机（取值范围为0-255）
+
+.RelearnMoves=$suggest 习得当前招式对应的招式记录
+
+.DynamaxLevel=10 巨大化等级100级
+
+.IsNicknamed=false还原名字 
+
+批量性别.Gender=$0,1
+
+剑盾变蛋
+=Box=32
+.DynamaxLevel=0
+.CurrentLevel=1
+.Move1_PPUps=0
+.Move2_PPUps=0
+.Move3_PPUps=0
+.Move4_PPUps=0
+.EV_HP=0
+.EV_ATK=0
+.EV_DEF=0
+.EV_SPA=0
+.EV_SPD=0
+.EV_SPE=0
+.OT_Friendship=3
+.RelearnMoves=$suggest
+.IsEgg=true
+.CurrentHandler=0
+.IsNicknamed=true
+.Nickname=蛋
+
+
+批量随机性格：.Nature=$0,24
+
+批量随机能力性格：.StatNature=$0,24
+
+批量随机精灵球：.Ball=$1,26
+
+批量宝可梦性别：.Gender=0/1 （0公 1母）
+
+批量删除宝可梦昵称：.Nickname=
+
+批量修改宝可梦昵称：.Nickname=ABC （自定义名字）
+
+批量随机种类：.Species=$rand
+
+批量删除宝可梦：.Species=0
+
+相遇的年月日，分别是三行代码，一行一条：.Met_Year=19 .Met_Month=11 .Met_Day=5 意思是2019/11/5相遇
+
+孵蛋的年月日，分别是三行代码，一行一条：.Egg_Year=20 .Egg_Month=6  .Egg_Day=12 意思是2020/6/12孵化
+
+相遇版本 .Version=45  剑44，盾45 具体版本查询批量
+
+对战版本 .BattleVersion=45  同上
+
+相遇地点=209道路.Met_Location=382
+
+相遇地点=寄放屋夫妻.Egg_Location=60010
+
+蛋取得场所.Egg_Location=60002
+
+相遇等级1.Met_Level=1
+
+清空道具：.HeldItem=0
+
+剑盾TR回忆 .RelearnMoves=$suggest
+
+阿尔宙斯精通 .MoveMastery=$suggestAll
+
+个体：               奋斗：                 努力：                   去皮觉醒：
+.IV_ATK=31               .GV_ATK=7               .EV_ATK=0                    .AV_ATK=200
+.IV_DEF=31               .GV_DEF=7               .EV_DEF=0                    .AV_DEF=200
+.IV_HP=31                .GV_HP=7                .EV_HP=0                     .AV_HP=200
+.IV_SPA=31               .GV_SPA=7               .EV_SPA=0                    .AV_SPA=200
+.IV_SPD=31               .GV_SPD=7               .EV_SPD=0                    .AV_SPD=200
+.IV_SPE=31               .GV_SPE=7               .EV_SPE=0                    .AV_SPE=200
+
+去皮CP   .CalcCP=10000
+
+批量让性格与能力性格一致：.Nature=$suggest
+
+$suggestAll -> get all
+$suggestNone -> remove all
+$suggest -> get current moves
+
+BDSP非法标记清除  .IsDprIllegal=false
+
+=box=30  只修改30
+
+批量华丽值：宝石复刻最高248，别的版本255
+
+.CNT_Cool=255      帅气
+.CNT_Beauty=255    美丽
+.CNT_Cute=255      可爱
+.CNT_Smart=255     聪明
+.CNT_Tough=255     强壮
+.CNT_Sheen=255     光泽
+
+全合法缎带 .ribbons=$suggestAll
+
+VC二代水晶金银 遇见时段  .Met_TimeOfDay=1/2/3   1=早上  2=中午 3=晚上
+
+二代VC努力：           二代VC闪光个体：
+.EV_ATK=65535                        .IV_ATK=15   
+.EV_DEF=65535                        .IV_DEF=10
+.EV_HP=65535                         .IV_SPA=10
+.EV_SPA=65535                        .IV_SPD=10      
+.EV_SPD=65535                        .IV_SPE=10 
+.EV_SPE=65535
+
+XD暗之旋风批量心灵值 .Purification=
+
+与初训练家的回忆		
+中文名	英文命令	数值
+感受	.OT_Feeling=	
+程度	.OT_Intensity=	
+回忆类型	.OT_Memory=	
+地区	.OT_TextVar=	
+友好度	.OT_Affection=	最大值255
+亲密度	.OT_Friendship=	最大值255
+
+批量回忆
+.HT_Feeling=4
+.HT_Intensity=3
+.HT_Memory=10
+.OT_Feeling=4
+.OT_Intensity=3
+.OT_Memory=10
+
+
+与持有人回忆		
+感受	.HT_Feeling=	
+程度	.HT_Intensity=	
+回忆类型	.HT_Memory=	
+地区	.HT_TextVar=	
+友好度	.HT_Affection=	最大值255
+亲密度	.HT_Friendship=	最大值255
+
+3DS居住地		
+故居1：国家	.Geo1_Country=	同上
+故居1：地区	.Geo1_Region=	同上
+故居2：国家	.Geo2_Country=	同上
+故居2：地区	.Geo2_Region=	同上
+故居3：国家	.Geo3_Country=	同上
+故居3：地区	.Geo3_Region=	同上
+故居4：国家	.Geo4_Country=	同上
+故居4：地区	.Geo4_Region=	同上
+故居5：国家	.Geo5_Country=	同上
+故居5：地区	.Geo5_Region=	同上
+
+
+other		
+满腹度	.Fullness=	最大值255
+抚摸度	.Enjoyment=	最大值255
+社交度	.Sociability=	最大值255
+		
+3DS区域	.ConsoleRegion=	0 = 
+日本  1 = 美洲          2 = 欧洲  4 = 中国          5 = 韩国  6 = 台湾
+
+
+3DS国家	.Country=	
+"49 = 美国       128=台湾
+1 = 日本        136=韩国
+18 = 加拿大     
+110 = 英国
+65 = 澳大利亚   160 = 中国
+77 = 法国       144 = 香港
+83 = 意大利"
+
+5到6对战华丽大赛缎带报错修复：.HasBattleMemoryRibbon=false
+                              .HasContestMemoryRibbon=false
+
+
+
+
+
