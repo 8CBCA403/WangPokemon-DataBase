@@ -1,0 +1,168 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+批量修改指定盒子
+=Box=(1,2,3,4,...)
+批量修改游戏版本
+.Version=45 剑44，盾45
+批量随机加密常数
+.EncryptionConstant=$rand
+批量PID随机
+.PID=$rand
+批量修改普通闪光
+.PID=$shiny
+批量修改方块闪光
+.PID=$shiny0
+批量修改PID为随机大冒险闪光值
+.PID=$shiny1
+批量当前等级100级
+.CurrentLevel=100
+批量习得当前招式对应的招式记录
+.RelearnMoves=$suggest
+获得合法奖章
+.Ribbons=$suggestAll
+批量招式PP值最大
+.Move1_PPUps=3 （同理可改Move2、Move3、Move4）
+批量精灵球
+.Ball=(1大师球 2高级球 3超级球
+4精灵球 5狩猎球 6捕网球
+7潜水球 8巢穴球 9重复球
+10计时球 11豪华球 12纪念球
+13黑暗球 14治愈球 15先机球
+16贵重球 17速度球 18等级球
+19诱饵球 20沉重球 21甜蜜球
+22友友球 23月亮球 24竞赛球
+25梦境球 26究极球 31-33飞羽
+34-36重量)
+
+批量修改非初训家名字
+.HT_Name=
+批量修改初训家名字
+.OT_Name=hy2
+批量修改初训家性别
+.OT_Gender=0/1 （0男 1女）
+批量修改初训家里ID
+.DisplaySID= （里ID）
+批量修改初训家表ID
+.DisplayTID= （表ID）
+批量修改宝可梦语言
+.Language=(
+1 = JPN;2 = English;3 = French;4 = Italian;
+5 = German;7 = Spanish;8 = Korean;
+9 = Chinese Simplified;
+10 = Chinese Traditional)
+.Language=9 将语言全部设置为中文。然后.IsNicknamed=false 不启用昵称，这样精灵就会用系统默认
+
+批量修改个体值
+.IV_ATK/DEF/HP/SPA/SPD/SPE=0-31 （V=31）
+批量修改努力值
+.EV_ATK/DEF/HP/SPA/SPD/SPE= （单项上限252/全部总和上限510）
+批量修改奋斗值
+.GV_ATK/DEF/HP/SPA/SPD/SPE= （单项上限7）
+批量修改觉醒值
+.AV_ATK/DEF/HP/SPA/SPD/SPE= （单项上限200）
+华丽大赛美丽/帅气等
+.CNT_Beauty/Cool/Cute/Sheen/Smart/Tough= （单项上限255）
+批量修改特性
+.AbilityNumber=（1=特性1;2=特性2;4=隐藏特性）
+批量修改携带道具
+.HeldItem= （1=大师球）
+批量极巨等级
+.DynamaxLevel=10
+批量修改home追踪
+.Tracker=0000000000000000
+批量亲密度
+.OT_Friendship=255
+批量让性格与能力性格一致
+.Nature=$suggest
+批量性格
+.Nature=
+是否感染病毒
+.PKRS_Infected=true
+病毒种类
+.PKRS_Strain=11 ( 1-15)
+是否免疫病毒
+.PKRS_Cured=true
+批量能力性格
+.StatNature=( 0勤奋 1怕寂寞 2勇敢 3固执 4顽皮 5大胆 6坦率 7悠闲
+8淘气 9乐天 10胆小 11急躁 12认真 13爽朗 14天真 15内敛 16慢吞吞
+17冷静 18害羞 19马虎 20温和21温顺 22自大 23慎重 24浮躁 )
+蛋的相遇年月日
+.Egg_Year=18 .Egg_Month=10 .Egg_Day=1 意思是2018/10/1获得蛋
+相遇地点
+.Met_Location=（ 006草路镇 008微寐森林 004遥远的地方
+002神秘的地方 014木杆镇  044水舟镇 052机擎市郊外 054第二矿山
+056拳关市 058拳关市车站 060拳关竞技场 064能源工厂 066塔顶
+040-5号道路 090-9号道路 092-9号道路 (战竞湾)  096战竞镇
+098战竞竞技场, 106-10号道路 108白丘车站 110宫门市 114宫门竞技场 (选手休息室)  118宫门竞技场 120集汇空地 (旷野地带), 122煦丽草原 (旷野地带), 130牙牙湖西岸 (旷野地带) 140机擎河岸 (旷野地带)
+144巨石原野 (旷野地带) 148巨人镜池 (旷野地带) 154逆鳞湖 (旷野地带) 156旷野地带车站 158对战塔 160洛兹大厦 162某处的巢穴
+30001连接交换 (NPC)）
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+批量随机性格：.Nature=$0,24
+批量随机能力性格：.StatNature=$0,24
+批量随机精灵球：.Ball=$1,26
+批量宝可梦性别：.Gender=0/1 （0公 1母）
+批量删除宝可梦昵称：.Nickname=
+批量修改宝可梦昵称：.Nickname=ABC （自定义名字）
+批量修改宝可梦性别：.Gender=$0,1
+批量随机种类：.Species=$rand
+批量删除宝可梦：.Species=0
+批量随机身高：.HeightScalar=$rand
+批量随机体重：.WeightScalar=$rand
+
+批量去除非法
+=Legal=false
+.Species=0
+
+批量去奖章代码：
+.RibbonBestFriends=false
+.RibbonChampionGalar=false
+.RibbonEffort=false
+.RibbonMarkAbsentMinded=false
+.RibbonMarkAngry=false
+.RibbonMarkBlizzard=false
+.RibbonMarkCalmness=false
+.RibbonMarkCharismatic=false
+.RibbonMarkCloudy=false
+.RibbonMarkCrafty=false
+.RibbonMarkCurry=false
+.RibbonMarkDawn=false
+.RibbonMarkDestiny=false
+.RibbonMarkDry=false
+.RibbonMarkDusk=false
+.RibbonMarkExcited=false
+.RibbonMarkFerocious=false
+.RibbonMarkFishing=false
+.RibbonMarkFlustered=false
+.RibbonMarkHumble=false
+.RibbonMarkIntellectual=false
+.RibbonMarkIntense=false
+.RibbonMarkJittery=false
+.RibbonMarkJoyful=false
+.RibbonMarkKindly=false
+.RibbonMarkLunchtime=false
+.RibbonMarkMisty=false
+.RibbonMarkPeeved=false
+.RibbonMarkPrideful=false
+.RibbonMarkPumpedUp=false
+.RibbonMarkRainy=false
+.RibbonMarkRare=false
+.RibbonMarkRowdy=false
+.RibbonMarkSandstorm=false
+.RibbonMarkScowling=false
+.RibbonMarkSleepyTime=false
+.RibbonMarkSlump=false
+.RibbonMarkSmiley=false
+.RibbonMarkSnowy=false
+.RibbonMarkStormy=false
+.RibbonMarkTeary=false
+.RibbonMarkThorny=false
+.RibbonMarkUncommon=false
+.RibbonMarkUnsure=false
+.RibbonMarkUpbeat=false
+.RibbonMarkVigor=false
+.RibbonMarkZeroEnergy=false
+.RibbonMarkZonedOut=false
+.RibbonMasterRank=false
+.RibbonTowerMaster=false
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
