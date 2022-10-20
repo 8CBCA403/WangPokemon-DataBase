@@ -1,0 +1,13 @@
+e-Card Berries.zip and e-Card Trainers.zip contain a collection of official e-Card Berries (.ecb) and e-Card Trainer (.ect) files.
+
+Originally, you'd scan the card with the e-Reader, then connect the e-Reader and your game via Link Cable and the corresponding trainer or berry data would be stored in the savegame (until a new transfer for another berry or trainer was done).
+
+Injecting an ect or ecb to the savegame has the same result as doing it with the e-Reader, nothing more, nothing less. The original cards where region locked, but you can inject any ect or ecb regardless of region and it will work just fine.
+
+Thanks BlackShark for converting the e-Card files to ect and ecb!
+
+Enjoy
+
+-----------------------
+
+Suloku '16

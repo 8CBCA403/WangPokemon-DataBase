@@ -1,0 +1,11 @@
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                                                          !!!
+!!!EVENTS INCLUDED IN THIS FOLDER ARE NOT OFFICIAL IN ANY WAY!!!
+!!!                                                          !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+This folder includes custom events, such as custom wondercards. Here are brief descriptions:
+
+- OldSeaMap_E_custom.wc3: this wondercard is compatible with ENG/FRE/ITA/GER/ESP savegames and will allow you to get Mew. This Mew has never been available outside Japan, and there's no evidence supporting that it would have been available to non-japanese games in any way, so the Mew you get with this wondercard is completely ilegal, even though it can be transfered all the way up to generation 6 and even Pokémon Bank, but it is still illegal nonetheless.

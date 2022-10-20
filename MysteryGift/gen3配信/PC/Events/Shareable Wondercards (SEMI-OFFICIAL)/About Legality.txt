@@ -1,0 +1,8 @@
+NONE of the shareable Wonder Cards in this folder are official since, of course, the original cards were not shareable.
+
+BUT when you share any of these Wonder Cards, the game that receives the card will have an EXACT COPY of the original, OFFICIAL event.
+
+To sum up, these wondercard files are here for the solely purpose of injecting them into a savegame, then put that save on a game cartridge to use that game cartridge as a portable official Wonder Card pseudo-distribution device.
+
+-----------
+suloku '16

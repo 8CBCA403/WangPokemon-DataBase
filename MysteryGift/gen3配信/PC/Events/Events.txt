@@ -1,0 +1,69 @@
+This is a list of the events included in the package and who contributed them.
+
+- WN_JAP_Empty.wn3 and WN_USAEUR_Empty.wn3 are empty Wonder News files compatible with the editor, so you can create your own Wonder News. These news were only used in Japan, and there's currently no public domain savegame containing Wonder News. If you have one, please contribute it at projectpokemon.org!
+
+- Event Collection (OFFICIAL): holds .wc3 and .me3 files with official nintendo events.
+
+- Shareable Wondercards (SEMI-OFFICIAL): holds modified .wc3 files that can be shared via wireless adaptor. The receiver CAN'T share the wondercard, but the wondercard received is 1:1 to the one received via a Nintendo Event, and as such, a cartridge with one of this wondercards can be used as a distribution device for the event.
+
+- Custom Events (ILLEGAL): holds .wc3 and .me3 files that have been made by hand, so they aren't official in any way. Check the included readme in the folder to know more about each file in the folder.
+
+
+--------------
+Missing events
+--------------
+
+- "MYSTIC TICKET" TCG WORLD CHAMPIONSHIPS 2005 (US/English) (FR/LG)
+- "MYSTIC TICKET" POKÉMON ROCKS AMERICA 2005 (US/English) (FR/LG and E)
+-  All Pokémon Egg WonderCards for FR/LG and E.
+
+If you have a FireRed/LeafGreen Mystic ticket WonderCard, please contact gen3mysterygift@gmail.com
+
+---------------------------------
+EVENT COLLECTION and Contributors
+---------------------------------
+
+JAP
+	EON TICKET - RS - JAP.me3 -> taka
+	
+	MYSTIC TICKET 2005 - E - JAP.wc3 -> taka (2005 Winter)
+	OLD SEA MAP - E - JAP.wc3 -> taka
+	
+	AURORA TICKET 2004 - FRLG - JAP.wc3 -> taka (2004 Summer)
+	MYSTIC TICKET 2004 - FRLG - JAP.wc3 -> taka (2004 Summer)
+	MYSTIC TICKET 2005 - FRLG - JAP.wc3 -> taka (2005 Winter)
+
+ENG
+	EON TICKET - RS - ENG_USA (e-card).me3 -> USA Eon ticket e-card
+	AURORA TICKET - EMERALD.wc3 - ENG_UK -> Nintendo italy, thanks to Real.96
+
+	AURORA TICKET 2004 FALL - FRLG - ENG_USA.wc3 -> contributed by Gldsun at projectpokemon
+	MYSTIC TICKET - FRLG - ENG_USA.wc3 -> contributed by Maveos
+	MYSTIC TICKET TCGWC 2005 - E - ENG_USA.wc3 -> contributed by Yukfou, dumped thanks to sceptios
+	MYSTIC TICKET - E - ENG_USA.wc3 -> contributed by Maveos
+
+	AURORA TICKET - FRLG - ENG_UK.wc3 -> contributed by Real.96
+	
+FRE
+	EON TICKET - RS - FRE.me3 -> contributed by Real.96
+	AURORA TICKET - EMERALD - FRE.wc3 -> contributed by Real.96
+	AURORA TICKET - FRLG - FRE.wc3 -> contributed by Real.96
+
+ITA
+	EON TICKET - RS - ITA.me3 -> contributed by Real.96
+	AURORA TICKET - EMERALD - GER.wc3 -> contributed by Real.96/Ahito95
+	AURORA TICKET - FRLG - ITA.wc3 -> contributed by Real.96/Ahito95
+
+GER
+	EON TICKET - RS - GER.me3 -> Nintendo italy, thanks to Real.96 and ajxpkm
+	AURORA TICKET - EMERALD - GER.wc3 -> Nintendo italy, thanks to Real.96 and ajxpkm
+	AURORA TICKET - FRLG - GER.wc3 -> contributed by King Impoleon (Pokemon Day 2005 Germany)
+
+ESP
+	EON TICKET - RS - ESP.me3 -> Nintendo italy, thanks to Real.96 and suloku
+	AURORA TICKET - EMERALD - ESP.wc3 -> Nintendo italy, thanks to Real.96 and suloku
+	AURORA TICKET - FRLG - ESP.wc3 -> contributed Dr. Matt (got from nintendo Spain)
+
+--------------------------------
+
+suloku '16

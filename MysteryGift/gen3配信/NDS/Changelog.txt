@@ -1,0 +1,17 @@
+11th November 2016
+	- Hopefully fixed bug where some tickets were injected instead of the correct ones.
+	- Added FRLG Mystic Ticket, thanks to Maveos!
+	- Enabled Mystic Ticket for all FRLG, since everything points to the event being downloadable in those cartridges.
+	- Removed the need for a txt file in the sd card root.
+
+8th November 2016:
+	- Fixed forgotten break statement preventing correct ticket injection.
+	- Enabled Emerald USA Mystic ticket for european games, since it seems it may be legit.
+
+
+7th November 2016:
+	- Support switching cartriges in-app.
+
+
+------------
+suloku '16

@@ -1,0 +1,75 @@
+//// 概览
+PID
+(随机：$rand  异色随机：$shiny)
+性别  Gender
+种类(编号)  Species
+是否起昵称  IsNicknamed
+昵称  Nickname
+经验值  EXP
+等级  CurrentLevel
+性格  Nature
+持有物  HeldItem
+亲密度  OT_Friendship
+样子  AltForm
+特性  Ability
+特性编号  AbilityNumber
+语言  Language
+是否为蛋  IsEgg
+病毒值  PKRS_Strain (不为0即感染)
+剩余天数  PKRS_Days (为0即免疫)
+国家  Country
+地区  Region
+3Ds区域  ConsoleRegion
+
+
+/// 相遇
+来源版本  Version
+相遇地点  Met_Location (填入建议 $suggest)
+精灵球种类  Ball
+相遇等级  Met_Level
+相遇日期  MetDate
+(Met_Year \ Met_Month \ Met_Day \ Met_TimeOfDay)
+是否命中注定的相遇  FatefulEncounter
+是否从蛋中孵化  WasEgg
+蛋取得地点  Egg_Location
+蛋孵化日期  EggMetDate
+(Egg_Year \ Egg_Month \ Egg_Day)
+
+
+/// 数值 (随机：$rand)
+个体  IVs
+(IV_HP / 攻击 IV_ATK / 防御 IV_DEF / 特攻 IV_SPA / 特防 IV_SPD / 速度 IV_SPE)
+是否极限特训
+(HT_HP / 攻击 HT_ATK / 防御 HT_DEF / 特攻 HT_SPA / 特防 HT_SPD / 速度 HT_SPE)
+努力  EVs
+(EV_HP / 攻击 EV_ATK / 防御 EV_DEF / 特攻 EV_SPA / 特防 EV_SPD / 速度 EV_SPE)
+帅气  CNT_Cool
+美丽  CNT_Beauty
+可爱  CNT_Cute
+聪明  CNT_Smart
+强壮  CNT_Tough
+光泽  CNT_Sheen
+
+
+/// 招式
+当前招式  Move(1234)
+          Moves (填入建议 $suggest)
+PP值  Move(1234)_PP
+PP提升  Move(1234)_PPUps
+回忆招式  RelearnMove(1234)
+          RelearnMoves (填入建议 $suggest)
+
+
+///杂项
+表ID  TID
+里ID  SID
+初训家名字  OT_Name
+初训家性别  OT_Gender
+最近持有人名字  HT_Name
+最近持有人性别  HT_Gender
+当前持有人  CurrentHandler
+额外字节  _0x73 - _0xD7
+标记  圆形-菱形 按顺序
+(MarkCircle /  MarkTriangle / MarkSquare / MarkHeart / MarkStar /MarkDiamond)
+加密常数  EncryptionConstant
+(随机：$rand  与PID相同：PID)

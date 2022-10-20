@@ -1,0 +1,91 @@
+
+ 嘟嘟之魂 发表于 2016-11-10 01:24 | 只看该作者 回帖奖励   
+
+
+ 
+
+
+编号 中文名 英文名 日文名 德语名 进化方式 
+722 木木枭 Rowlet モクロー Bauz 17级进化成投羽枭 
+723 投羽枭 Dartrix フクスロー Arboretoss 34级进化成狙射树枭 
+724 狙射树枭 Decidueye ジュナイパー Silvarro - 
+725 火斑喵 Litten ニャビー Flamiau 17级进化成炎热喵 
+726 炎热喵 Torracat ニャヒート Miezunder 34级进化成炽焰咆哮虎 
+727 炽焰咆哮虎 Incineroar ガオガエン Fuegro - 
+728 球球海狮 Popplio アシマリ Robball 17级进化成花漾海狮 
+729 花漾海狮 Brionne オシャマリ Marikeck 34级进化成西狮海壬 
+730 西狮海壬 Primarina アシレーヌ Primarene - 
+731 小笃儿 Pikipek ツツケラ Peppeck 14级进化成喇叭啄鸟 
+732 喇叭啄鸟 Trumbeak ケララッパ Trompeck 28级进化成铳嘴大鸟 
+733 铳嘴大鸟 Toucannon ドデカバシ Tukanon - 
+734 猫鼬少 Yungoos ヤングース Mangunior 白天20级进化成猫鼬探长 
+735 猫鼬探长 Gumshoos デカグース Manguspektor - 
+736 强颚鸡母虫 Grubbin アゴジムシ Mabula 20级进化成虫电宝  
+737 虫电宝 Charjabug デンヂムシ Akkup 在电场附近升级进化成锹农炮虫 
+738 锹农炮虫 Vikavolt クワガノン Donarion - 
+739 好胜蟹 Crabrawler マケンカニ Krabbox 在山顶升级进化成好胜毛蟹 
+740 好胜毛蟹 Crabominable ケケンカニ Krawell - 
+741 花舞鸟 Oricorio オドリドリ Choreogel - 
+742 萌虻 Cutiefly アブリー Wommel 25级进化成蝶结萌虻 
+743 蝶结萌虻 Ribombee アブリボン Bandelby - 
+744 岩狗狗 Rockruff イワンコ Wuffels 白天25级进化成鬃岩狼人-白昼的样子（太阳）
+ 夜晚25级进化成鬃岩狼人-黑夜的样子（月亮） 
+745 鬃岩狼人 Lycanroc ルガルガン Wolwerock - 
+746 弱丁鱼?? Wishiwashi ヨワシ Lusardin - 
+747 好坏星 Mareanie ヒドイデ Garstella 38级进化成超坏星 
+748 超坏星 Toxapex ドヒドイデ Aggrostella - 
+749 泥驴仔 Mudbray ドロバンコ Pampuli 30级进化成重泥挽马 
+750 重泥挽马 Mudsdale バンバドロ Pampross - 
+751 滴蛛 Dewpider シズクモ Araqua 22级进化成滴蛛霸 
+752 滴蛛霸 Araquanid オニシズクモ Aranestro - 
+753 伪螳草 Fomantis カリキリ Imantis 白天34级进化成兰螳花  
+754 兰螳花 Lurantis ラランテス Mantidea - 
+755 睡睡菇?? Morelull ネマシュ Bubungus 24级进化成灯罩夜菇 
+756 灯罩夜菇 Shiinotic マシェード Lamellux - 
+757 夜盗火蜥 Salandit ヤトウモリ Molunk 雌性33级进化成焰后蜥 
+758 焰后蜥 Salazzle エンニュート Amfira - 
+759 童偶熊 Stufful ヌイコグマ Velursi 27级进化成穿着熊 
+760 穿着熊 Bewear キテルグマ Kosturso - 
+761 甜竹竹 Bounsweet アマカジ Frubberl 18级进化成甜舞妮 
+762 甜舞妮 Steenee アママイコ Frubaila 习得踩踏后升级进化成甜冷美后  
+763 甜冷美后 Tsareena アマージョ Fruyal - 
+764 花疗环环 Comfey キュワワー Curelei - 
+765 智挥猩 Oranguru ヤレユータン Kommandutan - 
+766 投掷猴 Passimian ナゲツケサル Quartermak - 
+767 胆小虫 Wimpod コソクムシ Rei?laus 30级进化成具甲武者 
+768 具甲武者 Golisopod グソクムシャ Tectass - 
+769 沙丘娃? Sandygast スナバァ Sankabuh 42级进化成噬沙堡爷? 
+770 噬沙堡爷? Palossand シロデスナ Colossand - 
+771 拳海参? Pyukumuku ナマコブシ Gufa - 
+772 属性：空 Type: Null タイプ：ヌル Typ:Null 亲密度达到220后升级进化成银伴战兽  
+773 银伴战兽 Silvally シルヴァディ Amigento - 
+774 小陨星 Minior メテノ Meteno - 
+775 树枕尾熊 Komala ネッコアラ Koalelu - 
+776 爆焰龟兽 Turtonator バクガメス Tortunator - 
+777 托戈德玛尔 Togedemaru トゲデマル Togedemaru - 
+778 谜拟Ｑ Mimikyu ミミッキュ Mimigma - 
+779 磨牙彩皮鱼 Bruxish ハギギシリ Knirfish - 
+780 老翁龙 Drampa ジジーロン Sen-Long - 
+781 破破舵轮 Dhelmise ダダリン Moruda - 
+782 心鳞宝 Jangmo-o ジャラコ Miniras 35级进化成鳞甲龙 
+783 鳞甲龙 Hakamo-o ジャランゴ Mediras 45级进化成杖尾鳞甲龙 
+784 杖尾鳞甲龙 Kommo-o ジャラランガ Grandiras - 
+785 卡璞?鸣鸣 Tapu Koko カプ?コケコ Kapu-Riki - 
+786 卡璞?蝶蝶 Tapu Lele カプ?テテフ Kapu-Fala - 
+787 卡璞?哞哞 Tapu Bulu カプ?ブルル Kapu-Toro - 
+788 卡璞?鳍鳍 Tapu Fini カプ?レヒレ Kapu-Kime - 
+789 科斯莫古 Cosmog コスモッグ Cosmog 43级进化成科斯莫姆 
+790 科斯莫姆 Cosmoem コスモウム Cosmovum 53级进化成索尔迦雷欧（太阳）/露奈雅拉（月亮） 
+791 索尔迦雷欧 Solgaleo ソルガレオ Solgaleo - 
+792 露奈雅拉 Lunala ルナアーラ Lunala - 
+793 虚吾伊德 Nihilego ウツロイド Anego - 
+794 爆肌蚊 Buzzwole マッシブーン Masskito - 
+795 费洛美螂 Pheromosa フェローチェ Schabelle - 
+796 电束木 Xurkitree デンジュモク Voltriant - 
+797 铁火辉夜 Celesteela テッカグヤ Kaguron - 
+798 纸御剑 Kartana カミツルギ Katagami - 
+799 恶食大王 Guzzlord アクジキング Schlingking - 
+800 奈克罗兹玛 Necrozma ネクロズマ Necrozma - 
+801 玛机雅娜 Magearna マギアナ Magearna - 
+802 玛夏多 Marshadow マーシャドー Marshadow - 
+ 

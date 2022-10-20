@@ -1,0 +1,4 @@
+   按START开机进界面，然后选择Decrypt9WIP
+   使用Decrypt9提取未BAN机中的LocalFriendCodeSeed_B(SysNAND Options>System File Dump>Dump LocalFriendCodeSeed_B),剪切出来
+   把你要注入的LFC放进跟提取出来的自己的LFC一样的文件夹里，然后SysNAND Options>System File Inject>Inject LocalFriendCodeSeed_B然后依次：左上右下A，再按A，接着按START重启即可
+   注：注入的LFC文件名一定要是LocalFriendCodeSeed_B，注入的LFC放根目录应该也行，不需要先提取的可以试试
