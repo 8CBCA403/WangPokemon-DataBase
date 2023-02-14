@@ -1,0 +1,131 @@
+%trade Zacian-Crowned @ Rusted Sword
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Shiny: Yes  
+Ability: Intrepid Sword  
+Level: 100  
+Shiny: Yes  
+EVs: 236 HP / 76 Atk / 4 Def / 4 SpD / 188 Spe  
+Adamant Nature  
+- Behemoth Blade  
+- Play Rough  
+- Sacred Sword  
+- Protect  
+
+%trade Kyogre @ Mystic Water  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Dive Ball
+Shiny: Yes
+Ability: Drizzle  
+Level: 100  
+EVs: 116 HP / 28 Def / 108 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Ice Beam  
+- Protect  
+
+%trade Kartana @ Assault Vest  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Heavy Ball
+Shiny: Yes
+Ability: Beast Boost  
+Level: 100  
+Shiny: Yes  
+EVs: 4 HP / 4 Atk / 4 Def / 244 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+- Aerial Ace  
+
+%trade Shedinja @ Focus Sash  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Net Ball
+Shiny: Yes
+Ability: Wonder Guard  
+Level: 100  
+EVs: 252 Atk / 252 Spe  
+Lonely Nature  
+IVs: 0 Def / 0 SpD  
+- Poltergeist  
+- Shadow Sneak  
+- Endure  
+- Ally Switch  
+
+%trade Incineroar @ Shuca Berry  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Timer Ball
+Shiny: Yes
+Ability: Intimidate  
+Level: 100  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 108 Def / 132 SpD / 12 Spe  
+Impish Nature  
+IVs: 0 SpA  
+- Flare Blitz  
+- Darkest Lariat  
+- Parting Shot  
+- Fake Out  
+
+%trade Thundurus @ Sitrus Berry  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Dusk Ball
+Shiny: Yes
+Ability: Prankster  
+Level: 100  
+EVs: 236 HP / 140 Def / 4 SpA / 76 SpD / 52 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Taunt  
+- Eerie Impulse  
+- Thunder Wave  
+
+%trade Landorus (M) @ Assault Vest  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Dusk Ball
+Shiny: Yes
+Ability: Sheer Force  
+Level: 50  
+EVs: 164 HP / 76 Def / 36 SpA / 4 SpD / 228 Spe  
+Modest Nature  
+- Earth Power  
+- Fly  
+- Stone Edge  
+- Grass Knot

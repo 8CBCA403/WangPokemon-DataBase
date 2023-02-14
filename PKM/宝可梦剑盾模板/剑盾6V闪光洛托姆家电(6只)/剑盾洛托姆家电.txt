@@ -1,0 +1,108 @@
+Rotom @ Aguav Berry  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Moon Ball
+Ability: Levitate  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Discharge  
+- Thunderbolt  
+- Thunder Wave
+
+Rotom-Fan @ Mental Herb  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Fast Ball
+Ability: Levitate  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Uproar  
+- Air Slash  
+- Shadow Ball  
+- Charge Beam
+
+Rotom-Frost @ Power Herb  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Love Ball
+Ability: Levitate  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Dark Pulse  
+- Shadow Ball  
+- Thunderbolt
+
+Rotom-Heat @ Absorb Bulb  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Timer Ball
+Ability: Levitate  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Overheat  
+- Shadow Ball  
+- Volt Switch
+
+Rotom-Mow @ Lagging Tail  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Friend Ball
+Ability: Levitate  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Volt Switch  
+- Shadow Ball  
+- Dark Pulse
+
+Rotom-Wash @ Magnet  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Dive Ball
+Ability: Levitate  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Dark Pulse  
+- Shadow Ball  
+- Thunderbolt
+
+

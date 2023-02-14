@@ -1,0 +1,106 @@
+Porygon2 @ Eviolite  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Timer Ball
+Ability: Download  
+Level: 50  
+EVs: 244 HP / 92 Def / 36 SpA / 100 SpD / 36 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunderbolt  
+- Recover  
+- Trick Room  
+
+Heatran @ Shuca Berry  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Heavy Ball
+Ability: Flash Fire  
+Shiny: Yes  
+EVs: 252 HP / 4 Def / 252 SpA  
+Modest Nature  
+IVs: 13 Atk  
+- Protect  
+- Heat Wave  
+- Earth Power  
+- Flash Cannon  
+
+Tapu Fini @ Sitrus Berry  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Dusk Ball
+Ability: Misty Surge  
+Shiny: Yes  
+EVs: 244 HP / 68 Def / 196 SpA  
+Modest Nature  
+IVs: 5 Atk  
+- Protect  
+- Moonblast  
+- Muddy Water  
+- Calm Mind  
+
+Rillaboom @ Assault Vest  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ability: Grassy Surge  
+Level: 53  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+IVs: 13 SpA  
+- Fake Out  
+- Grassy Glide  
+- U-turn  
+- Wood Hammer  
+
+Zapdos @ Rocky Helmet  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Moon Ball
+Ability: Static  
+Shiny: Yes  
+EVs: 252 HP / 116 Def / 132 SpA / 4 SpD / 4 Spe  
+Bold Nature  
+IVs: 1 Atk  
+- Thunderbolt  
+- Hurricane  
+- Roost  
+- Eerie Impulse  
+
+Registeel @ Leftovers  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Luxury Ball
+Ability: Clear Body  
+Shiny: Yes  
+EVs: 252 HP / 76 Def / 180 SpD  
+Relaxed Nature  
+IVs: 2 Atk / 30 SpA / 0 Spe  
+- Iron Defense  
+- Amnesia  
+- Body Press  
+- Protect  

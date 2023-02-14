@@ -1,0 +1,106 @@
+Ninetales-Alola @ Focus Sash  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Premier Ball
+Ability: Snow Warning  
+Level: 100  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Blizzard  
+- Aurora Veil  
+- Protect  
+
+Arctozolt @ Life Orb  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Nest Ball
+Ability: Slush Rush  
+Level: 100  
+Shiny: Yes
+EVs: 220 Atk / 36 SpA / 252 Spe  
+Naive Nature  
+- Bolt Beak  
+- Blizzard  
+- Substitute  
+- Protect  
+
+Urshifu-Rapid-Strike @ Choice Scarf  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ability: Unseen Fist  
+Level: 100  
+EVs: 60 HP / 236 Atk / 4 Def / 4 SpD / 204 Spe  
+Adamant Nature  
+- Surging Strikes  
+- Aqua Jet  
+- Close Combat  
+- U-turn  
+
+Incineroar @ Sitrus Berry  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Level Ball
+Ability: Intimidate  
+Level: 100  
+Shiny: Yes
+EVs: 236 HP / 4 Atk / 100 Def / 156 SpD / 12 Spe  
+Careful Nature  
+- Flare Blitz  
+- Fake Out  
+- Taunt  
+- Parting Shot  
+
+Rillaboom @ Assault Vest  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ability: Grassy Surge  
+Level: 100  
+Shiny: Yes
+EVs: 132 HP / 196 Atk / 4 Def / 12 SpD / 164 Spe  
+Adamant Nature  
+- Grassy Glide  
+- Wood Hammer  
+- Fake Out  
+- U-turn  
+
+Stakataka @ Safety Goggles  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Heavy Ball
+Ability: Beast Boost  
+Level: 100  
+Shiny: Yes
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Rock Slide  
+- Gyro Ball  
+- Body Press  
+- Trick Room  

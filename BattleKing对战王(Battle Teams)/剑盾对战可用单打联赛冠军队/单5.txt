@@ -1,0 +1,110 @@
+Torkoal (M) @ Sitrus Berry  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Repeat Ball
+Ability: Drought  
+Level: 100  
+Shiny: Yes 
+EVs: 244 HP / 12 Def / 252 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Burning Jealousy  
+- Body Press  
+- Yawn  
+- Protect  
+
+Landorus-Therian @ Assault Vest  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Dusk Ball
+Ability: Intimidate  
+Level: 100  
+Shiny: Yes
+EVs: 212 HP / 116 Atk / 68 Def / 44 SpD / 68 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Fly  
+- U-turn  
+
+Kyogre @ Wave Incense  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Dive Ball
+Ability: Drizzle  
+Level: 100  
+Shiny: Yes
+EVs: 28 HP / 12 Def / 236 SpA / 4 SpD / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Ice Beam  
+- Origin Pulse  
+- Water Spout  
+
+Tornadus @ Focus Sash  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Dusk Ball
+Ability: Prankster 
+Level: 100  
+Shiny: Yes 
+EVs: 36 HP / 4 Def / 212 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Icy Wind  
+- Hurricane  
+- Tailwind  
+
+Venusaur-Gmax (M) @ Life Orb  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ball: Level Ball
+Ability: Chlorophyll  
+Level: 100  
+Shiny: Yes
+EVs: 28 HP / 4 Def / 212 SpA / 12 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Weather Ball  
+- Leaf Storm  
+- Sleep Powder  
+
+Zacian-Crowned @ Rusted Sword  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: Female
+Language: ChineseS
+Friendship: 255
+Ability: Intrepid Sword  
+Level: 100  
+Shiny: Yes
+EVs: 108 HP / 164 Atk / 4 Def / 4 SpD / 228 Spe  
+Adamant Nature  
+- Behemoth Blade  
+- Sacred Sword  
+- Protect  
+- Substitute  

@@ -1,0 +1,109 @@
+Tapu Fini @ Leftovers  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Dusk Ball
+Ability: Misty Surge  
+Level: 50  
+Shiny: Yes  
+EVs: 252 HP / 4 Def / 116 SpA / 76 SpD / 60 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Protect  
+- Muddy Water  
+- Moonblast  
+- Calm Mind  
+
+Rillaboom @ Assault Vest  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ability: Grassy Surge  
+Level: 50  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Adamant Nature  
+- Fake Out  
+- Grassy Glide  
+- Knock Off  
+- U-turn  
+
+Landorus @ Life Orb  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Luxury Ball
+Ability: Sheer Force  
+Level: 50  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Earth Power  
+- Sludge Bomb  
+- Substitute  
+
+Metagross @ Choice Band  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Heavy Ball
+Ability: Clear Body  
+Level: 50  
+Shiny: Yes  
+EVs: 252 HP / 196 Atk / 4 Def / 4 SpD / 52 Spe  
+Adamant Nature  
+- Iron Head  
+- Zen Headbutt  
+- Stomping Tantrum  
+- Bullet Punch  
+
+Incineroar @ Sitrus Berry  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Friend Ball
+Ability: Intimidate  
+Level: 50  
+Shiny: Yes  
+EVs: 244 HP / 4 Atk / 156 Def / 4 SpD / 100 Spe  
+Impish Nature  
+- Fake Out  
+- Flare Blitz  
+- Snarl  
+- Parting Shot  
+
+Porygon2 @ Eviolite  
+OT: Ceil
+TID: 274567
+SID: 3763
+OTGender: female
+Language: ChineseS
+Friendship: 255
+Ball: Timer Ball
+Ability: Download  
+Level: 50  
+Shiny: Yes  
+EVs: 252 HP / 164 Def / 4 SpA / 84 SpD / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Tri Attack  
+- Ice Beam  
+- Trick Room  
